@@ -1,0 +1,14 @@
+body {
+  background: #000;
+}
+
+body h1,
+body h2 {
+  color: #fff;
+  text-align: center;
+}
+
+body p {
+  color: orange;
+}
+

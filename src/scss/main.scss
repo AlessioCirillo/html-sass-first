@@ -1,0 +1,16 @@
+$font-color: #fff;
+$back-color: #000;
+
+body{
+    background: $back-color;
+
+    h1,
+    h2{
+        color: $font-color;
+        text-align: center;
+    }
+
+    p{
+        color: orange;
+    }
+}
